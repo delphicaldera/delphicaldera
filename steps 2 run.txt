@@ -1,0 +1,4 @@
+1.) cd downloads
+2.) cd nodes
+3.) pip install tweepy
+4.) python pbot.py
